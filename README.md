@@ -34,7 +34,6 @@ Los datos limpios (`df_final`) han sido estructurados para conectarse a **Looker
 ##  Herramientas Utilizadas
 * **Lenguaje:** R (Dplyr, Tidyverse, Lubridate).
 * **BI:** Looker Studio / Power BI.
-* **Document
 
 ## Nota
 
